@@ -12,7 +12,7 @@ This website contains 4 sections :
  - About Us
 
 ## Table of contents
-* [General info](#general-info)
+* [Documentation](#general-info)
 * [Demo](#demo)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
@@ -22,10 +22,10 @@ This website contains 4 sections :
 * [Contact](#contact)
 * [License](#license)
 
-## General info
-
+## Documentation
+Please read the [documentation](https://github.com/aniskchaou/INDUSTRY-ROUTE-CMS/wiki) page for more details.
 ## Demo
-
+http://industryroute.byethost9.com/
 ## Screenshots
 <p align="center">
 <img  src="screenshot.png"/>
@@ -38,16 +38,16 @@ This website contains 4 sections :
 
 ## Setup
 
-
 ## Features
-
-
-
+ - 100% Responsive
+ - Contrasting Colour Scheme
+ - Well Planned Information Architecture
+ - Fast Load Times
+ - Effective Navigation
+ - Usable Forms
 ## Status
 Project is: _finished_
-
 ## Contact
 contact@delta-dev-software.com
-
 ## License
 <a href="license.txt">MIT License</a>
