@@ -39,7 +39,7 @@ http://industryroute.byethost9.com/
 * Elementor
 
 ## Setup
-
+Please read the [installation](https://github.com/aniskchaou/INDUSTRY-ROUTE-CMS/wiki/Installation)  page for more details.
 ## Features
  - 100% Responsive
  - Contrasting Colour Scheme
