@@ -48,8 +48,7 @@ Please read the [installation](https://github.com/aniskchaou/INDUSTRY-ROUTE-CMS/
  - Effective Navigation
  - Usable Forms
 
-## Status
-Project is: _finished_
+
 
 ## Contact
 contact@delta-dev-software.com
